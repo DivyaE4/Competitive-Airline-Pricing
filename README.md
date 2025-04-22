@@ -114,9 +114,3 @@ The system evaluates:
 - Execution time differences between streaming and batch
 - Result accuracy (price differences between modes)
 - Resource utilization
-
-## Authors
-
-- Member 1: [Your Name] - Kafka Producer
-- Member 2: [Your Name] - Spark Streaming
-- Member 3: [Your Name] - Batch Processing & Visualization
